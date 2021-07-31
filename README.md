@@ -1,4 +1,4 @@
-# HWS-14-BucketList
+# BucketList
 ### Relevant frameworks used:
 * SwiftUI
 * MapKit
